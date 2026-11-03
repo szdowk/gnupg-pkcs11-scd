@@ -1,3 +1,8 @@
+This sub version is developed specifically for the Polish national e-ID card
+("e-dowód") and successfully tested for S/MIME signing with
+the PWPW PKCS#11 module, alongside the accompanying
+pkcs11-helper and GnuPG fixes.
+
 gnupg-pkcs11-scd -- PKCS#11 enabled gnupg scd.
 
 Copyright (c) 2006-2007 Zeljko Vrba <zvrba@globalnet.hr>
