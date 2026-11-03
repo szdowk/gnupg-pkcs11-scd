@@ -1,4 +1,4 @@
-gnupg-pkcs11-scd -- PKCS#11 enabled gnupg scd.
+gnupg-pkcs11-scd -- PKCS#11 enabled gnupg scd for e-dowod card.
 
 Copyright (c) 2006-2007 Zeljko Vrba <zvrba@globalnet.hr>
 Copyright (c) 2006-2017 Alon Bar-Lev <alon.barlev@gmail.com>
@@ -18,6 +18,7 @@ ABOUT
 AUTHORS
 	Zeljko Vrba <zvrba@globalnet.hr>
 	Alon Bar-Lev <alon.barlev@gmail.com>
+	szdowk
 
 SUPPORT
 	http://gnupg-pkcs11.sourceforge.net/
